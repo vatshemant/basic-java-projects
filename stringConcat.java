@@ -13,7 +13,7 @@ public static void main(String[] args){
 	         
 	  
 	       
-	        String str3 = str1.concat(str2);  
+	        String str3 = str1.concat(str2);  //using concatenation function
 	  
 	        
 	        System.out.println("The concatenated string: " + str3); 
