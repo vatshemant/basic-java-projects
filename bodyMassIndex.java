@@ -2,7 +2,7 @@ package tiny;
 import java.util.Scanner;
 
 public class io{
-
+//CALCULATING BMI OF A PERSON
 public static void main(String[] args){
 		Scanner read=new Scanner(System.in); 
 		int a,b;

@@ -9,7 +9,7 @@ public class io {
 		x= read.nextInt();
 	    y= read.nextInt();
 	    System.out.println("VALUES BEFORE SWAPPING:  " + "X= " + x + "  Y= " + y);
-	    x=x+y;
+	    x=x+y;             //swapping variables.
 	    y=x-y;
 	    x=x-y;
 	    System.out.println("VALUES AFTER SWAPPING:   " + "X= " + x + "  Y= " + y);
