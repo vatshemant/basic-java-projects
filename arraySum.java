@@ -5,7 +5,7 @@ public class io{
 
 public static void main(String[] args){
 		Scanner read=new Scanner(System.in); 
-		int my_array[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+		int my_array[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 int sum = 0;
 
 for (int i : my_array)
