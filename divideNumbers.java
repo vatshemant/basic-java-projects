@@ -2,6 +2,6 @@
 
 public class io {
 	public static void main(String[] args){
-		System.out.println(32+67);
+		System.out.println(32/67);
 	        }
 	}
