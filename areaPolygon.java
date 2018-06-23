@@ -13,7 +13,7 @@ public class io {
 		x= read.nextDouble();
 		System.out.println("ENTER DIMENSION OF SIDE OF POLYGON: ");
 		y=read.nextDouble();
-		System.out.println("THE AREA OF POLYGON IS:" + area(x,y));
+		System.out.println("AREA OF POLYGON IS:" + area(x,y));
 	}
 		
 }  
